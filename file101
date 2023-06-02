@@ -1,0 +1,6 @@
+. git --version
+ 
+2. git config:  it is a command in Git that is used to configure your Git environment. It allows you to set various settings and options for your Git repository, such as your name and email address, preferred editor, default branch, and more
+ 
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
